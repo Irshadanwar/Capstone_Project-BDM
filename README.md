@@ -61,14 +61,6 @@ The analysis was conducted using **Excel** to extract insights and create visual
 
 ---
 
-## Future Work  
-Future enhancements could include:  
-- **Predictive Analysis:** Applying machine learning models for **demand forecasting** and **sales prediction.**  
-- **Customer Segmentation:** Analyzing customer demographics to tailor marketing and product offerings.  
-- **Implementation Tracking:** Monitoring the impact of recommendations on sales and profitability.
-
----
-
 ## Contact Information  
 For inquiries or further details, feel free to reach out:  
 - **Name:** MD Irshad Anwar  
