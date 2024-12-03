@@ -65,6 +65,6 @@ The analysis was conducted using **Excel** to extract insights and create visual
 ## Contact Information  
 For inquiries or further details, feel free to reach out:  
 - **Name:** MD Irshad Anwar  
-- **Email:** https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/
+- **Linkedin:** https://www.linkedin.com/in/md-irshad-anwar-8b88a9232/
 
 We appreciate your interest in this project and welcome any feedback or collaboration opportunities.  
