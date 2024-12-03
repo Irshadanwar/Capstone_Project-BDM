@@ -9,7 +9,8 @@ The project analyzed **sales, customer feedback, and inventory data** collected 
 ## Data Collection and Cleaning  
 - **Data Sources:** Two primary datasets were collected:  
   - **Sales data:** Orders, items sold, and total sales amounts.  
-  - **Customer feedback data:** Ratings based on price, taste, and quantity.  
+  - **Customer feedback data:** Ratings based on price, taste, and quantity.
+  - **dataset:https://docs.google.com/spreadsheets/d/1eEg2sigebBZupTMD0lVoDXGE0EGwKZv5r5bjGgTvwCU/edit?usp=sharing**
 
 - **Data Cleaning:**  
   - Handled missing values and outliers using filtering and conditional formatting in **Excel.**  
